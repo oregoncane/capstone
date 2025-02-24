@@ -10,8 +10,5 @@ The goal of this app was to showcase my ability to build a full-stack applicatio
 Features & Functionality
 Mimicking the original Instagram, the main features of the application are to allow users to share photos and explore images posted by other users. Users who create an account have the additional ability to:
 
-like posts
-comment
-follow other users
-explore their own profile data (likes, followers, following)
+
 
