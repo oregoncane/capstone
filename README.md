@@ -1,4 +1,4 @@
-# Capstone-Proje
+# Capstone-Project
 Jacob Marshall
 
 Instagram Clone
